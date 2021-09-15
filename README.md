@@ -1,38 +1,56 @@
 # What is your favorite holiday destination?
+# The Dolomites
 # What should your dreamjob be like?
-# What really makes you angry?
-# Who is your hero?
-# If you could live anywhere, where would it be?
-# What did you want to be when you were small?
-# Would you rather ride a bike, ride a horse, or drive a car?
-# what is your favorite dish? (list the main ingredients)
-# What is your favorite color?
-# What is your fav. videogame?
-# Does it bother you to be confronted with unexpected situations?
-# In the evening, would you rather play a game, visit a friend, watch a movie, or read?
-# How would your friends describe you?
-# What is the best gift you have been given?
-# Name 1 thing you could not do without (necessities aside)
-# # What is the worst gift you have received?
-# If you were a super-hero, what powers would you have?
-# What's the most unusual thing you've ever eaten?
-# Is your glass half full or half empty?
-# If you had a warning label, what would yours say?
-# Dolomites
 # Work and travel
+# What really makes you angry?
 # messiness
-# Batman
+# Who is your hero?
+# who is fighting injustice
+# If you could live anywhere, where would it be?
 # on the mountains
+# What did you want to be when you were small?
 # the astronaut
-# drive a car
+# Would you rather ride a bike, ride a horse, or drive a car?
+# i like driving my car and traveling to other countries
+# what is your favorite dish? (list the main ingredients)
 # Gnocchi: Patatoes Flour Water Salt
+# What is your favorite color?
 # blue red white green
+# What is your fav. videogame?
 # GTA
-# No
+# Does it bother you to be confronted with unexpected situations?
+# No, i like what is unexpected
+# In the evening, would you rather play a game, visit a friend, watch a movie, or read?
 # If i can be awake, i watch a movie
-# I´m a funny person
-# A car
-# velocity
-# rabbit
+# How would your friends describe you?
+# I´m a funny and smiling person
+# What is the best gift you have been given?
+# my beautiful car
+# Name 1 thing you could not do without (necessities aside)
+# run without without my rucksack
+# # What is the worst gift you have received?
+# a picture frame
+# If you were a super-hero, what powers would you have?
+# supervelocity
+# What's the most unusual thing you've ever eaten?
+# rabbit´s meat
+# Is your glass half full or half empty?
 # half full
+# If you had a warning label, what would yours say?
 # look forward
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
